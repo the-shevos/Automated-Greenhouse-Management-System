@@ -307,6 +307,14 @@ Import the Postman collection:
 
 ---
 
+## 📸 Eureka Dashboard
+
+All services registered and UP:
+
+![Eureka Dashboard](images/Eureka-dashboard.PNG)
+
+---
+
 ## 📝 Configuration
 
 All service configurations are managed centrally via Spring Cloud Config Server.
